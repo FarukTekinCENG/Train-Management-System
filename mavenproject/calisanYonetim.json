@@ -1,0 +1,14 @@
+{
+  "calisanlar": [
+    {
+      "isim": "tmp1",
+      "soyisim": "tmp2",
+      "pozisyon": "Yönetici ve Yönetim Personeli"
+    },
+    {
+      "isim": "tmp3",
+      "soyisim": "tmp4",
+      "pozisyon": "Makinist"
+    }
+  ]
+}
